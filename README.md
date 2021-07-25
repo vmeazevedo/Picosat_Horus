@@ -42,7 +42,6 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 - Registrar todos os dados capturados pelos sensores no datalogger.
 - Realizar um pouso suave em terra e recuperar os dados da missão.
 
-
 #### Lista de materiais
 - **BMP180:** Sensor de pressão (300 à 1100hPa) e temperatura (-40 à +85°C).
 - **RTC DS3231:** Relógio de tempo real de alta precisão e baixo consumo de energia.
@@ -51,6 +50,10 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 - **Mini câmera digital:** Utilizado para captação de áudio e vídeo do voo.
 - **PowerBank:** Utilizado para energizar os componentes
 - **Arduino Nano V3:** Microcontrolador ATmega328
+
+#### Protótipo / Protoboard
+![image](https://user-images.githubusercontent.com/40063504/126915190-66ad9b39-d45a-4b43-b5a4-76ff1f9b1f60.png)
+_Figura 1 - Protótipo Picosat Malloner versão 0_
 
 
 ### Missão II
