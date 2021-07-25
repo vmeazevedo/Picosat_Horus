@@ -2,9 +2,14 @@
 Desenvolvimento e produção de um picossatélite para realizações de medições atmosféricas e envio de telemetria por RF.
 
 ![download](https://user-images.githubusercontent.com/40063504/126914282-48e06e31-83de-4a18-91f1-eec003de2222.png)
+_bs: Imagem meramente ilustrativa_
+
 
 ## Definição de Picossatélite
 O termo picossatélite ou picosat é utilizado para designar um satélite artificial com uma massa menor do que 1 kg. 
+
+Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
+
 
 ## Vantagens
 - Baixo custo de fabricação.
@@ -19,8 +24,16 @@ O termo picossatélite ou picosat é utilizado para designar um satélite artifi
 - Menor potência de transmissão de dados.
 - Decaimento orbital mais rápido.
 
-## Diário de missão
-O objetivo final desse projeto é realizar a produção e lançamento de um picosatélite na estratosfera (20km ~ 40km), realizando o registros dos sensores em log e transmitindo a telemetria dos sensores em tempo real.
+
+## Diário de Bordo
+### Objetivo Final
+- Realizar a produção e lançamento de um picosatélite na estratosfera (20km ~ 40km) através de HAB (Balão de alta altitude).
+- Realizando a captura dos dados atmosféricos através do sensores acoplados ao picosat,
+- Realizar o registro de logs dos sensores e do sistema.
+- Realizar a captura de audio e video todo o vôo.
+- Realizar o envio de telemetria em tempo real.
+- Recuperação da carga e dos dados.
+
 
 ### Missão I
 #### Lista de materiais
