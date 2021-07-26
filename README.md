@@ -1,4 +1,4 @@
-# Picosat_Malloner
+# Picosat_Horus
 Desenvolvimento e produção de um picossatélite para realizações de medições atmosféricas e envio de telemetria por RF.
 
 ![download](https://user-images.githubusercontent.com/40063504/126914282-48e06e31-83de-4a18-91f1-eec003de2222.png)
