@@ -54,7 +54,7 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 #### Protótipo / Protoboard
 ![image](https://user-images.githubusercontent.com/40063504/126915190-66ad9b39-d45a-4b43-b5a4-76ff1f9b1f60.png)
 
-_Figura 1 - Protótipo Picosat Malloner versão 0_
+_Figura 1 - Protótipo Picosat Horus versão 0_
 
 
 ### Missão II
