@@ -4,7 +4,7 @@ Github: https://github.com/vmeazevedo
 LinkedIn: https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/
 
 Você pode encontrar o projeto completo no diretório abaixo:
-https://github.com/vmeazevedo/Picosat_Malloner
+https://github.com/vmeazevedo/Picosat_Horus
 */
 
 
