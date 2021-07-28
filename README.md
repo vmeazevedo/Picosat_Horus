@@ -60,7 +60,7 @@ _Figura 1 - Protótipo Picosat Horus versão 1_
 
 ## Updates
 ### - 27/07/2021: 
-_Realizado os testes de todos os sensores._
+_Realizado os testes dos sensores bmp180, DS3231 e modulo SC Card._
 
 _Primeira montagem do conjunto realizada com sucesso._
 
