@@ -60,15 +60,15 @@ _Figura 1 - Protótipo Picosat Horus versão 1_
 
 ## Updates
 ### 27/07/2021: 
-_Realizado os testes dos sensores bmp180, DS3231 e modulo SC Card._
-_Primeira montagem do conjunto realizada com sucesso._
-_Registros apontados dentro do datalogger devidamento formatados._
+- _Realizado os testes dos sensores bmp180, DS3231 e modulo SC Card._
+- _Primeira montagem do conjunto realizada com sucesso._
+- _Registros apontados dentro do datalogger devidamento formatados._
 
 ![log](https://user-images.githubusercontent.com/40063504/127258601-e1fb1e56-ee62-4a9b-90a4-0bbdf42bcf49.jpeg)
 
 
 ### 28/07/2021:
-_Desenvolvido um dashboard inicial em python para monitoramento live streaming da telemetria dos dados recebidos dos sensores._
+- _Desenvolvido um dashboard inicial em python para monitoramento live streaming da telemetria dos dados recebidos dos sensores._
 
 https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-a180-073df0f762e6.mp4
 
