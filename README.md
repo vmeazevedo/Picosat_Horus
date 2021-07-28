@@ -5,7 +5,7 @@ Desenvolvimento e produção de um picossatélite para realizações de mediçõ
 _obs: Imagem meramente ilustrativa_
 
 ### Objetivo Final
-- Realizar a produção e lançamento de um picosatélite na estratosfera (20km ~ 40km) através de HAB (Balão de alta altitude).
+- Realizar a produção e lançamento de um picosatélite na estratosfera através de HAB (Balão de alta altitude).
 - Realizando a captura dos dados atmosféricos através do sensores acoplados ao picosat.
 - Realizar o registro de logs dos sensores e do sistema.
 - Realizar a captura de áudio e vídeo todo o voo.
