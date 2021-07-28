@@ -68,7 +68,7 @@ _Figura 1 - Protótipo Picosat Horus versão 1_
 
 
 ### 28/07/2021:
-- _Desenvolvimento de um dashboard inicial em python para monitoramento live streaming da telemetria dos dados recebidos dos sensores via porta COM._
+- _Desenvolvimento de um dashboard inicial em python que será a interface da estação de solo para monitoramento live streaming da telemetria dos dados recebidos dos sensores via porta COM._
 
 https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-a180-073df0f762e6.mp4
 
