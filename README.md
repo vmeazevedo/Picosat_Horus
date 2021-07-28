@@ -60,28 +60,17 @@ _Figura 1 - Protótipo Picosat Horus versão 1_
 
 ### Updates
 #### - 27/07/2021: 
-_Realizado os testes de todos os sensores.
-_Primeira montagem do conjunto realizada com sucesso.
-_Registros apontados dentro do datalogger devidamento formatados.
+_Realizado os testes de todos os sensores._
+
+_Primeira montagem do conjunto realizada com sucesso._
+
+_Registros apontados dentro do datalogger devidamento formatados._
 
 ![log](https://user-images.githubusercontent.com/40063504/127258601-e1fb1e56-ee62-4a9b-90a4-0bbdf42bcf49.jpeg)
 
 
 #### - 28/07/2021:
-_Desenvolvido um dashboard inicial em python para monitoramento live streaming da telemetria dos dados recebidos dos sensores.
+_Desenvolvido um dashboard inicial em python para monitoramento live streaming da telemetria dos dados recebidos dos sensores._
 
 https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-a180-073df0f762e6.mp4
 
-
-
-![dashboard_inicial](https://user-images.githubusercontent.com/40063504/127258811-fb5ac51a-7727-4a89-bb32-54002dd84dbd.png)
-
-
-https://user-images.githubusercontent.com/40063504/127258817-8e684425-20a0-49ed-80d1-90caf593ceaf.mp4
-
-
-
-
-https://user-images.githubusercontent.com/40063504/127258625-f9e15003-abaf-4eb9-9748-32aef742fab8.mp4
-
-![dashboard_inicial](https://user-images.githubusercontent.com/40063504/127258802-88f249d8-6be4-4a79-9a0d-0903442d5571.png)
