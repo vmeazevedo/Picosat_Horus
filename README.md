@@ -45,19 +45,43 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 #### Lista de materiais
 - **BMP180:** Sensor de pressão (300 à 1100hPa) e temperatura (-40 à +85°C).
 - **RTC DS3231:** Relógio de tempo real de alta precisão e baixo consumo de energia.
-- **DHT AM2302:** Sensor de temperatura (-40º a +80ºC) e umidade (0 a 100% UR).
+- **MPU 6050:** Acelerômetro e Giroscópio 3 Eixos 6 DOF.
+- **GPS NEO-6M:** Módulo GPS NEO-6M ublox.
 - **SD Card:** Utilizado como datalogger.
 - **Mini câmera digital:** Utilizado para captação de áudio e vídeo do voo.
 - **PowerBank:** Utilizado para energizar os componentes
 - **Arduino Nano V3:** Microcontrolador ATmega328
 
 #### Protótipo / Protoboard
-![image](https://user-images.githubusercontent.com/40063504/126915190-66ad9b39-d45a-4b43-b5a4-76ff1f9b1f60.png)
+![image](https://user-images.githubusercontent.com/40063504/127258064-80d4414e-5d2b-4d77-bf73-99c5430bccbd.png)
 
-_Figura 1 - Protótipo Picosat Horus versão 0_
+_Figura 1 - Protótipo Picosat Horus versão 1_
 
 
-### Missão II
-#### Upgrades esperados
-- Inclusão do modulo de GPS NEO-6 u-blox.
-- Inclusão de um sistema de transmissão de telemetria utilizando o Transceptor RF 433MHz HC-12.
+### Updates
+#### - 27/07/2021: 
+_Realizado os testes de todos os sensores.
+_Primeira montagem do conjunto realizada com sucesso.
+_Registros apontados dentro do datalogger devidamento formatados.
+
+![log](https://user-images.githubusercontent.com/40063504/127258601-e1fb1e56-ee62-4a9b-90a4-0bbdf42bcf49.jpeg)
+
+
+#### - 28/07/2021:
+_Desenvolvido um dashboard inicial em python para monitoramento live streaming da telemetria dos dados recebidos dos sensores.
+
+https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-a180-073df0f762e6.mp4
+
+
+
+![dashboard_inicial](https://user-images.githubusercontent.com/40063504/127258811-fb5ac51a-7727-4a89-bb32-54002dd84dbd.png)
+
+
+https://user-images.githubusercontent.com/40063504/127258817-8e684425-20a0-49ed-80d1-90caf593ceaf.mp4
+
+
+
+
+https://user-images.githubusercontent.com/40063504/127258625-f9e15003-abaf-4eb9-9748-32aef742fab8.mp4
+
+![dashboard_inicial](https://user-images.githubusercontent.com/40063504/127258802-88f249d8-6be4-4a79-9a0d-0903442d5571.png)
