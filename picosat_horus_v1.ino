@@ -30,10 +30,7 @@ void setup()
 {
     Serial.begin(9600);
     while (!Serial) ; // aguarde a conexão da porta serial. Necessário para USB nativo
-    //Serial.println("Inicializando");
-    
-    // dht.begin();
-  
+      
     //Inicializar dispositivo I2C
     bmp.begin();
     
@@ -72,20 +69,13 @@ void loop()
     double bmp180Alt = bmp.readAltitude();
     double bmp180Pressure = bmp.readPressure();
     double bmp180TempC = bmp.readTemperature();     //See also bmp180.getTemperatureF() for Fahrenheit
-    //Serial.print("Altitude: "); 
     Serial.print(bmp180Alt,1);
     Serial.print(",");
-    //Serial.println(" [m]\t");
-    //Serial.print("Pressao: "); 
     Serial.print(bmp180Pressure,1); 
     Serial.print(",");
-    //Serial.println(" [hPa]\t");
-    //Serial.print("Temp: "); 
     Serial.print(bmp180TempC,1); 
-    //Serial.println(" [°C]\t");
     Serial.print(",");
-    Serial.print(bmp180TempC,1); // ajuste técnico para acesso live streaming
-    //Serial.println(" [°C]\t");
+    Serial.print(" "); // ajuste técnico para acesso live streaming
     Serial.println();
     
     delay(1000);
