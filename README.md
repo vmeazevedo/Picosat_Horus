@@ -72,3 +72,10 @@ _Figura 1 - Protótipo Picosat Horus versão 1_
 
 https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-a180-073df0f762e6.mp4
 
+### 29/07/2021:
+- _Inclusão do modulo de GPS ao sistema e validação de log com os novos dados de telemetria._
+- _Desenvolvimento de um modo de visualização de coordenadas do GPS através de script python, plotando o sinal no mapa de forma amigável.
+
+![WhatsApp Image 2021-07-31 at 12 32 55](https://user-images.githubusercontent.com/40063504/127744906-36191b2e-64b9-4dc2-8913-9bbc871f3b88.jpeg)
+![WhatsApp Image 2021-07-31 at 12 28 13](https://user-images.githubusercontent.com/40063504/127744911-6e284f59-6254-4964-a0e7-28ff7481243a.jpeg)
+
