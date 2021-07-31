@@ -74,8 +74,17 @@ https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-
 
 ### 29/07/2021:
 - _Inclusão do modulo de GPS ao sistema e validação de log com os novos dados de telemetria._
-- _Desenvolvimento de um modo de visualização de coordenadas do GPS através de script python, plotando o sinal no mapa de forma amigável.
+- _Desenvolvimento de um modo de visualização de coordenadas do GPS através de script python, plotando o sinal no mapa de forma amigável._
 
 ![WhatsApp Image 2021-07-31 at 12 32 55](https://user-images.githubusercontent.com/40063504/127744906-36191b2e-64b9-4dc2-8913-9bbc871f3b88.jpeg)
 ![WhatsApp Image 2021-07-31 at 12 28 13](https://user-images.githubusercontent.com/40063504/127744911-6e284f59-6254-4964-a0e7-28ff7481243a.jpeg)
+
+### 31/07/2021:
+- _Integração do modo de visualização do GPS ao dashboard inicial.
+- _Apresentação dos dados de telemetria em tempo real em nossa estação de solo.
+
+![Figure_1](https://user-images.githubusercontent.com/40063504/127744964-3d4227bc-6bd9-4ff7-b9b0-3927be43a010.png)
+
+https://user-images.githubusercontent.com/40063504/127744967-6b089bce-fc8b-431d-9497-ab9e0f8e1d2f.mp4
+
 
