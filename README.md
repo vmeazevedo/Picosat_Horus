@@ -4,8 +4,6 @@ Desenvolvimento e produção de um picossatélite para realizações de mediçõ
 ![download](https://user-images.githubusercontent.com/40063504/126914282-48e06e31-83de-4a18-91f1-eec003de2222.png)
 _obs: Imagem meramente ilustrativa_
 
-<a href="https://manytools.org/hacker-tools/convert-images-to-ascii-art/">ASCII art generator for geeks! - Convert images/pictures to ASCII art online! (HTML/text)</a>
-
 
 ### Objetivo Final
 - Realizar a produção e lançamento de um picosatélite na estratosfera através de HAB (Balão de alta altitude).
