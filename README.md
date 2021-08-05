@@ -84,7 +84,8 @@ https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-
 https://user-images.githubusercontent.com/40063504/127744967-6b089bce-fc8b-431d-9497-ab9e0f8e1d2f.mp4
 
 ### 04/08/2021:
-- _Desenvolvimento da primeira PCB do projeto, sem o sistema de transmissão via RF._
+- _Desenvolvimento da primeira PCB do projeto utilizando o software EasyEDA._
+- _Futuramente será desenvolvida outra PCB com o sistema de transmissão por RF incluso._
 
 ![layout_conexões](https://user-images.githubusercontent.com/40063504/128271947-032a46bb-cd02-41bb-bbcf-087c08a0f3b4.PNG)
 
