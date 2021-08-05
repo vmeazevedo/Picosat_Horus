@@ -46,17 +46,12 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 #### Lista de materiais
 - **BMP180:** Sensor de pressão (300 à 1100hPa) e temperatura (-40 à +85°C).
 - **RTC DS3231:** Relógio de tempo real de alta precisão e baixo consumo de energia.
-- **MPU 6050:** Acelerômetro e Giroscópio 3 Eixos 6 DOF.
 - **GPS NEO-6M:** Módulo GPS NEO-6M ublox.
+- **HC12:** Módulo Rádio Frequência HC12.
 - **SD Card:** Utilizado como datalogger.
 - **Mini câmera digital:** Utilizado para captação de áudio e vídeo do voo.
 - **PowerBank:** Utilizado para energizar os componentes
 - **Arduino Nano V3:** Microcontrolador ATmega328
-
-#### Protótipo / Protoboard
-![image](https://user-images.githubusercontent.com/40063504/127258064-80d4414e-5d2b-4d77-bf73-99c5430bccbd.png)
-
-_Figura 1 - Protótipo Picosat Horus versão 1_
 
 
 ## Updates
@@ -81,11 +76,21 @@ https://user-images.githubusercontent.com/40063504/127258828-0524be32-c405-49d9-
 ![WhatsApp Image 2021-07-31 at 12 28 13](https://user-images.githubusercontent.com/40063504/127744911-6e284f59-6254-4964-a0e7-28ff7481243a.jpeg)
 
 ### 31/07/2021:
-- _Integração do modo de visualização do GPS ao dashboard inicial.
-- _Apresentação dos dados de telemetria em tempo real em nossa estação de solo.
+- _Integração do modo de visualização do GPS ao dashboard inicial._
+- _Apresentação dos dados de telemetria em tempo real em nossa estação de solo._
 
 ![Figure_1](https://user-images.githubusercontent.com/40063504/127744964-3d4227bc-6bd9-4ff7-b9b0-3927be43a010.png)
 
 https://user-images.githubusercontent.com/40063504/127744967-6b089bce-fc8b-431d-9497-ab9e0f8e1d2f.mp4
 
+### 04/08/2021:
+- _Desenvolvimento da primeira PCB do projeto, sem o sistema de transmissão via RF._
+
+![layout_conexões](https://user-images.githubusercontent.com/40063504/128271947-032a46bb-cd02-41bb-bbcf-087c08a0f3b4.PNG)
+
+![pcb_layout](https://user-images.githubusercontent.com/40063504/128271953-42d18928-90f0-4551-acb8-be58f9707857.PNG)
+
+
+
+https://user-images.githubusercontent.com/40063504/128271961-c4afb1bf-5d95-4cc0-81f1-9f9d74a43510.mp4
 
