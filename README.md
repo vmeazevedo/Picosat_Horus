@@ -53,6 +53,27 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 - **PowerBank:** Utilizado para energizar os componentes
 - **Arduino Nano V3:** Microcontrolador ATmega328
 
+#### Lista de Materiais
+LISTA DE MATERIAIS					
+Componentes	Descrição	Qtd	Preço Und	Total	Link
+Arduino Nano V3	Microcontrolador ATmega328	2	 R$ 55,99 	 R$ 111,98 	encurtador.com.br/dquQ8
+BMP180	Sensor de pressão (300 à 1100hPa) e temperatura (-40 à +85°C).	1	 R$ 18,40 	 R$ 18,40 	encurtador.com.br/DGOS7
+RTC DS3231	Relógio de tempo real de alta precisão e baixo consumo de energia.	1	 R$ 29,90 	 R$ 29,90 	encurtador.com.br/qDJW2
+GPS NEO-6M	Módulo GPS NEO-6M ublox.	1	 R$ 64,90 	 R$ 64,90 	encurtador.com.br/zDER4
+RF Wireless HC-12	Módulo Rádio Frequência HC12.	2	 R$ 38,80 	 R$ 77,60 	encurtador.com.br/clnpB
+Módulo SD Card	Utilizado como datalogger.	1	 R$ 14,62 	 R$ 14,62 	encurtador.com.br/ilmnQ
+Placa Solar 5V 1W	-	1	 R$ 32,99 	 R$ 32,99 	encurtador.com.br/yKM79
+LM2596	O módulo regulador de tensão	1	 R$ 18,90 	 R$ 18,90 	encurtador.com.br/LRTW9
+TP4056	Módulo carregador de baterias 	1	 R$ 11,47 	 R$ 11,47 	encurtador.com.br/rxHIW
+Bateria 18650	-	1	 R$ 34,99 	 R$ 34,99 	encurtador.com.br/kzV37
+Suporte Pilha 18650	-	1	 R$ 11,99 	 R$ 11,99 	encurtador.com.br/dgFQU
+Protoboard 400p	-	3	 R$ 15,90 	 R$ 47,70 	encurtador.com.br/ciDLQ
+Jumper macho-macho	-	1	 R$ 18,30 	 R$ 18,30 	encurtador.com.br/itEN8
+Jumper fêmea-fêmea	-	1	 R$ 14,32 	 R$ 14,32 	encurtador.com.br/qtySV
+Micro câmera sq11	Utilizado para captação de áudio e vídeo do voo.	1	 R$ 77,50 	 R$ 77,50 	encurtador.com.br/gyMR5
+TOTAL				 R$ 585,56 	
+![image](https://user-images.githubusercontent.com/40063504/128609664-f046c7a5-6286-4b7a-a881-56c6e8a23988.png)
+
 
 ## Updates
 ### 27/07/2021: 
