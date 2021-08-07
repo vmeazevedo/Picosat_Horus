@@ -96,3 +96,12 @@ https://user-images.githubusercontent.com/40063504/128271961-c4afb1bf-5d95-4cc0-
 
 ![Update_monitor](https://user-images.githubusercontent.com/40063504/128581430-b16f1d82-dba3-4801-903c-27e04c965e60.png)
 
+### 07/08/2021:
+- _Testes com o sistema preliminar de alimentação do picosat via energia solar._
+
+![solar](https://user-images.githubusercontent.com/40063504/128610020-e8b2a47f-2bc2-4f58-937e-702937d0a11d.PNG)
+
+
+
+https://user-images.githubusercontent.com/40063504/128610028-a982d79e-3cf4-4442-8962-9cac5c6e8880.mp4
+
