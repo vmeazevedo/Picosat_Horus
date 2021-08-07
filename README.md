@@ -43,15 +43,6 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 - Registrar todos os dados capturados pelos sensores no datalogger.
 - Realizar um pouso suave em terra e recuperar os dados da missão.
 
-#### Descrição dos itens
-- **BMP180:** Sensor de pressão (300 à 1100hPa) e temperatura (-40 à +85°C).
-- **RTC DS3231:** Relógio de tempo real de alta precisão e baixo consumo de energia.
-- **GPS NEO-6M:** Módulo GPS NEO-6M ublox.
-- **HC12:** Módulo Rádio Frequência HC12.
-- **SD Card:** Utilizado como datalogger.
-- **Mini câmera digital:** Utilizado para captação de áudio e vídeo do voo.
-- **PowerBank:** Utilizado para energizar os componentes
-- **Arduino Nano V3:** Microcontrolador ATmega328
 
 #### Lista de Materiais
 ![image](https://user-images.githubusercontent.com/40063504/128609664-f046c7a5-6286-4b7a-a881-56c6e8a23988.png)
