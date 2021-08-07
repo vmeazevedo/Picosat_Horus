@@ -56,39 +56,7 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 #### Lista de Materiais
 ![image](https://user-images.githubusercontent.com/40063504/128609664-f046c7a5-6286-4b7a-a881-56c6e8a23988.png)
 
-Links:
-
-encurtador.com.br/dquQ8
-
-encurtador.com.br/DGOS7
-
-encurtador.com.br/qDJW2
-
-encurtador.com.br/zDER4
-
-encurtador.com.br/clnpB
-
-encurtador.com.br/ilmnQ
-
-encurtador.com.br/yKM79
-
-encurtador.com.br/LRTW9
-
-encurtador.com.br/rxHIW
-
-encurtador.com.br/kzV37
-
-encurtador.com.br/dgFQU
-
-encurtador.com.br/ciDLQ
-
-encurtador.com.br/itEN8
-
-encurtador.com.br/qtySV
-
-encurtador.com.br/gyMR5
-
-
+_obs: Os links para compra dos itens se encontram dentro do arquivo "Lista_de_materiais_links.txt"_
 
 ## Updates
 ### 27/07/2021: 
