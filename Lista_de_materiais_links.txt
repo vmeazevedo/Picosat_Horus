@@ -1,0 +1,46 @@
+Links:
+
+Arduino Nano V3
+encurtador.com.br/dquQ8
+
+BMP180
+encurtador.com.br/DGOS7
+
+RTC DS3231
+encurtador.com.br/qDJW2
+
+GPS NEO-6M
+encurtador.com.br/zDER4
+
+RF Wireless HC-12
+encurtador.com.br/clnpB
+
+Módulo SD Card
+encurtador.com.br/ilmnQ
+
+Placa Solar 5V 1W
+encurtador.com.br/yKM79
+
+LM2596
+encurtador.com.br/LRTW9
+
+TP4056
+encurtador.com.br/rxHIW
+
+Bateria 18650
+encurtador.com.br/kzV37
+
+Suporte Pilha 18650
+encurtador.com.br/dgFQU
+
+Protoboard 400p
+encurtador.com.br/ciDLQ
+
+Jumper macho-macho
+encurtador.com.br/itEN8
+
+Jumper fêmea-fêmea
+encurtador.com.br/qtySV
+
+Micro câmera sq11
+encurtador.com.br/gyMR5
