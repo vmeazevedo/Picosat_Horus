@@ -95,3 +95,9 @@ https://user-images.githubusercontent.com/40063504/127744967-6b089bce-fc8b-431d-
 
 https://user-images.githubusercontent.com/40063504/128271961-c4afb1bf-5d95-4cc0-81f1-9f9d74a43510.mp4
 
+### 06/08/2021:
+- _Desenvolvimento do um script de monitoramento da tensão de alimentação do Microcontrolador e de sua temperatura interna._
+- _Desenvolvimento de um novo gráfico para monitoramento da VIN e temperatura interna do microcontrolador._
+
+![Update_monitor](https://user-images.githubusercontent.com/40063504/128581430-b16f1d82-dba3-4801-903c-27e04c965e60.png)
+
