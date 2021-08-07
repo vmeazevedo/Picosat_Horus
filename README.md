@@ -43,7 +43,7 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 - Registrar todos os dados capturados pelos sensores no datalogger.
 - Realizar um pouso suave em terra e recuperar os dados da missão.
 
-#### Lista de materiais
+#### Descrição dos itens
 - **BMP180:** Sensor de pressão (300 à 1100hPa) e temperatura (-40 à +85°C).
 - **RTC DS3231:** Relógio de tempo real de alta precisão e baixo consumo de energia.
 - **GPS NEO-6M:** Módulo GPS NEO-6M ublox.
