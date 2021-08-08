@@ -4,8 +4,10 @@ Desenvolvimento e produção de um picossatélite para realizações de mediçõ
 ![download](https://user-images.githubusercontent.com/40063504/126914282-48e06e31-83de-4a18-91f1-eec003de2222.png)
 _obs: Imagem meramente ilustrativa_
 
+### Projeto de Pesquisa
+Estudo do comportamento de microcontroladores Atmega328 ao longo da variação de altitude e temperatura em missões espaciais.
 
-### Objetivo Final
+### Objetivo de Missão
 - Realizar a produção e lançamento de um picosatélite na estratosfera através de HAB (Balão de alta altitude).
 - Realizando a captura dos dados atmosféricos através do sensores acoplados ao picosat.
 - Realizar o registro de logs dos sensores e do sistema.
