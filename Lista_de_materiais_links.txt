@@ -1,46 +1,46 @@
 Links:
 
 Arduino Nano V3
-encurtador.com.br/dquQ8
+https://produto.mercadolivre.com.br/MLB-1742940451-placa-nano-v3-atmega328-com-cabo-usb-compativel-com-arduino-_JM
 
 BMP180
-encurtador.com.br/DGOS7
+https://produto.mercadolivre.com.br/MLB-1884942782-sensor-presso-altitude-temperatura-barmetro-bmp180-_JM#position=1&search_layout=grid&type=item&tracking_id=8c520f3e-22c5-4199-b3a8-f68be9dd75ff
 
 RTC DS3231
-encurtador.com.br/qDJW2
+https://produto.mercadolivre.com.br/MLB-807439451-real-time-clock-ds3231-rtc-_JM#position=1&search_layout=grid&type=item&tracking_id=4cd0e7c6-d13f-4683-bc30-62e6e0f218c0
 
 GPS NEO-6M
-encurtador.com.br/zDER4
+https://produto.mercadolivre.com.br/MLB-1778800318-modulo-gps-rs232-blox-neo-6m-c-antena-nmea-arduino-pic-avr-_JM#position=1&search_layout=grid&type=item&tracking_id=761a3d1c-70fe-4e55-b28e-fb929bbdd277
 
 RF Wireless HC-12
-encurtador.com.br/clnpB
+https://produto.mercadolivre.com.br/MLB-1785733291-modulo-rf-433mhz-wireless-hc-12-c-antena-1000m-rs232-ttl-_JM#position=1&search_layout=grid&type=item&tracking_id=e7b84407-e2a2-45fd-b6e4-fdad48dd7bda
 
 Módulo SD Card
-encurtador.com.br/ilmnQ
+https://produto.mercadolivre.com.br/MLB-814816587-modulo-carto-micro-sd-leitor-de-sd-card-_JM#position=1&search_layout=grid&type=item&tracking_id=5e0203c9-b5c7-473d-89f2-7e7fe7741fe6
 
 Placa Solar 5V 1W
-encurtador.com.br/yKM79
+https://produto.mercadolivre.com.br/MLB-1619431724-mini-placa-painel-celula-solar-energia-fotovoltaica-5v-1w-nf-_JM
 
 LM2596
-encurtador.com.br/LRTW9
+https://produto.mercadolivre.com.br/MLB-1769839163-conversor-dc-dc-step-down-buck-lm2596-3a-_JM
 
 TP4056
-encurtador.com.br/rxHIW
+https://produto.mercadolivre.com.br/MLB-1244440365-carregador-bateria-lithinum-1a-com-proteco-tp4056-_JM
 
 Bateria 18650
-encurtador.com.br/kzV37
+https://produto.mercadolivre.com.br/MLB-700327104-bateria-18650-8800mah-37v-recarregavel-com-chip-proteco-_JM
 
 Suporte Pilha 18650
-encurtador.com.br/dgFQU
+https://produto.mercadolivre.com.br/MLB-1894035466-suporte-porta-pilha-para-1-bateria-de-lanterna-18650-rabicho-_JM
 
 Protoboard 400p
-encurtador.com.br/ciDLQ
+https://produto.mercadolivre.com.br/MLB-1421607788-protoboard-400-pontos-_JM#position=2&search_layout=stack&type=item&tracking_id=59503d02-7f3c-4d0c-aecc-d44932041db6
 
 Jumper macho-macho
-encurtador.com.br/itEN8
+https://produto.mercadolivre.com.br/MLB-1199393339-cabo-wire-jumper-20cm-40-fios-macho-macho-protoboard-arduino-_JM#position=1&search_layout=grid&type=pad&tracking_id=ed6f7264-9734-447a-a5e4-05fcaa6180d5&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZGYyZTUxMzUtYWQzMi00YWYwLTg5ZTUtNzJkOTk2MTBmMTMx
 
 Jumper fêmea-fêmea
-encurtador.com.br/qtySV
+https://produto.mercadolivre.com.br/MLB-1785741582-cabo-jumper-10cm-femea-x-femea-40-unid-picarduino-_JM#position=2&search_layout=grid&type=item&tracking_id=1ec67b7b-37e9-4fd1-bc2c-9b6b9b3cb1d4
 
 Micro câmera sq11
-encurtador.com.br/gyMR5
+https://produto.mercadolivre.com.br/MLB-1958638675-micro-cmera-aco-sq11-sensor-de-movimento-espian-moto-bike-_JM#position=1&search_layout=grid&type=item&tracking_id=49a77ca8-0659-48f9-aafe-5b831a632a66
