@@ -51,6 +51,7 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 Sistema responsável por todo o processamento e tratamento dos dados do pico satélite.
 
 ![computador_voo](https://user-images.githubusercontent.com/40063504/129812506-e6d10dbf-b0af-4b91-84b4-918ef69a7ea1.PNG)
+
 _Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser trocados ao longo do projeto._
 
 ### Transmissão de dados
@@ -63,6 +64,7 @@ _Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser troc
 Sistema responsável pela alimentação dos subsistemas do pico satélite.
 
 ![sistema_alimentação](https://user-images.githubusercontent.com/40063504/129812424-0d310496-ebc5-4488-aab1-da7f07e19461.PNG)
+
 _Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser trocados ao longo do projeto._
 
 ### Estação de solo
