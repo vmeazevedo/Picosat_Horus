@@ -107,3 +107,11 @@ https://user-images.githubusercontent.com/40063504/128271961-c4afb1bf-5d95-4cc0-
 
 https://user-images.githubusercontent.com/40063504/128610028-a982d79e-3cf4-4442-8962-9cac5c6e8880.mp4
 
+### 17/08/2021:
+- _Desenvolvimento do sistema de Unidade de Medição Inercial para monitorar os dados de estabilização e posicionamento._
+
+![IMU_TESTE](https://user-images.githubusercontent.com/40063504/129812345-69590c7d-0ba5-439e-a3e8-de3e8529f36f.PNG)
+
+
+https://user-images.githubusercontent.com/40063504/129812302-c0c55daa-0df7-4195-b5dc-750e4aad3463.mp4
+
