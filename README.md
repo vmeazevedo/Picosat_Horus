@@ -46,36 +46,6 @@ Link: https://pt.wikipedia.org/wiki/Sat%C3%A9lite_miniaturizado
 - Realizar um pouso suave em terra e recuperar os dados da missão.
 
 
-## Sistemas do Pico Satélite
-### Computador de bordo
-Sistema responsável por todo o processamento e tratamento dos dados do pico satélite.
-
-![computador_voo](https://user-images.githubusercontent.com/40063504/129812506-e6d10dbf-b0af-4b91-84b4-918ef69a7ea1.PNG)
-
-_Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser trocados ao longo do projeto._
-
-### Transmissão de dados
-Sistemas responsável pela transmissão de telemetria do satélite.
-
-![Wiring_HC_12](https://user-images.githubusercontent.com/40063504/129812545-1a186300-1935-4684-8fc1-3a34a6f67812.png)
-_Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser trocados ao longo do projeto._
-
-### Alimentação
-Sistema responsável pela alimentação dos subsistemas do pico satélite.
-
-![sistema_alimentação](https://user-images.githubusercontent.com/40063504/129812424-0d310496-ebc5-4488-aab1-da7f07e19461.PNG)
-
-_Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser trocados ao longo do projeto._
-
-### Estação de solo
-Estação base responsável pelo recebimento dos dados de telemetria enviados por RF.
-
-![ground_station_2](https://user-images.githubusercontent.com/40063504/129812568-3f5757bb-628e-4279-b253-47e56bd5c480.png)
-_Imagem meramente ilustrativa. Ligações/fiações e componentes podem ser trocados ao longo do projeto._
-
-
-
-
 ## Updates
 ### 27/07/2021: 
 - _Realização dos testes dos sensores bmp180, DS3231 e modulo SC Card._
