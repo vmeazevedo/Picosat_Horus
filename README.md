@@ -4,6 +4,17 @@ Desenvolvimento e produção de um picossatélite para realizações de mediçõ
 ![download](https://user-images.githubusercontent.com/40063504/126914282-48e06e31-83de-4a18-91f1-eec003de2222.png)
 _obs: Imagem meramente ilustrativa_
 
+![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/10.11.0) [![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
+
+![Star](https://img.shields.io/github/stars/vmeazevedo/Picosat_Horus?style=social)
+![Fork](https://img.shields.io/github/forks/vmeazevedo/Picosat_Horus?label=Fork&style=social)
+
+
+## Apoie esse projeto! 💵💵
+Olá!
+Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **865875c7-c1cc-4254-8585-7c1616dfbc59**
+
+
 ### Projeto de Pesquisa
 Estudo do comportamento de microcontroladores Atmega328 ao longo da variação de altitude e temperatura em missões espaciais.
 
