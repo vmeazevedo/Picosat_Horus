@@ -15,10 +15,10 @@ Olá!
 Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **865875c7-c1cc-4254-8585-7c1616dfbc59**
 
 
-### Projeto de Pesquisa
+## Projeto de Pesquisa
 Estudo do comportamento de microcontroladores Atmega328 ao longo da variação de altitude e temperatura em missões espaciais.
 
-### Objetivo de Missão
+## Objetivo de Missão
 - Realizar a produção e lançamento de um picosatélite na estratosfera através de HAB (Balão de alta altitude).
 - Realizando a captura dos dados atmosféricos através do sensores acoplados ao picosat.
 - Realizar o registro de logs dos sensores e do sistema.
