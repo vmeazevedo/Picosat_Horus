@@ -1,8 +1,8 @@
+
+![pyForms_OpenCV-MySQL__1_-removebg-preview](https://user-images.githubusercontent.com/40063504/163689463-99080a15-caca-4b63-af94-cc6f4552b726.png)
+
 # Picosat_Horus
 Desenvolvimento e produção de um picossatélite para realizações de medições atmosféricas e envio de telemetria por RF.
-
-![download](https://user-images.githubusercontent.com/40063504/126914282-48e06e31-83de-4a18-91f1-eec003de2222.png)
-_obs: Imagem meramente ilustrativa_
 
 ![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/10.11.0) [![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 
